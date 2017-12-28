@@ -21,11 +21,6 @@ var chocolateBars = [
     array.push(element)
     return array
   }
-  
-  
-  
-  
-  
- function accessElementInArray() {
-   return 
+  function accessElementInArray() {
+    console.log(array[0])
  }
