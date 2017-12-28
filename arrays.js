@@ -4,3 +4,7 @@ var chocolateBars = [
   'kitkat',
   'skittles',
   ]
+  
+ function accessElementInArray() {
+   return 
+ }
