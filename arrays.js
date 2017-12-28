@@ -5,6 +5,15 @@ var chocolateBars = [
   'skittles',
   ]
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
  function accessElementInArray() {
    return 
  }
